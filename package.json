@@ -1,11 +1,26 @@
 {
-  "name": "truffle-code-utils",
+  "name": "moxie-code-utils",
+  "namespace": "moxiesuite",
   "version": "1.1.0",
-  "description": "",
+  "description": "Moxie sutie code utilities",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moxiesuite/moxie-code-utils.git"
+  },
+  "keywords": [
+    "vapory",
+    "moxie",
+    "utils",
+    "extendable"
+  ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moxiesuite/moxie-code-utils/issues"
+  },
+  "homepage": "https://github.com/moxiesuite/moxie-code-utils#readme"
 }
